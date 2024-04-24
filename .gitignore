@@ -1,0 +1,12 @@
+__pycache__/
+
+.DS_Store
+Thumbs.db
+
+venv/
+env/
+
+*.env
+*.ini
+
+node_modules/
